@@ -8,13 +8,13 @@
 </head>
 <body>
   <div class="container">
-    <h1>🌱 Mood Journal</h1>
+    <h1> Mood Journal</h1>
     <input type="text" id="note" placeholder="Write your note...">
     <select id="mood">
-      <option value="happy">😊 Happy</option>
-      <option value="sad">😢 Sad</option>
-      <option value="stressed">😖 Stressed</option>
-      <option value="excited">🤩 Excited</option>
+      <option value="happy"> Happy</option>
+      <option value="sad"> Sad</option>
+      <option value="stressed"> Stressed</option>
+      <option value="excited"> Excited</option>
     </select>
     <button onclick="addEntry()">Add Entry</button>
     
@@ -24,3 +24,4 @@
   <script src="script.js"></script>
 </body>
 </html>
+
