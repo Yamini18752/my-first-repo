@@ -1,0 +1,11 @@
+Smart Grocery Assistant with AR & AI
+What is AR & AI?
+AR (Augmented Reality): Displays digital info over real-world objects.
+AI (Artificial Intelligence): Learns user preferences, recommends products, predicts shopping patterns.
+Combined: Helps users make smarter shopping decisions instantly.
+Problem Statement
+People often struggle to find products quickly or make healthy/efficient choices while shopping.
+Traditional grocery shopping can be time-consuming and confusing.
+Need: A smart assistant to simplify the experience.
+
+
